@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-test",
+  "name": "@bzelip/github-actions-test",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
