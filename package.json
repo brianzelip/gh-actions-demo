@@ -1,0 +1,10 @@
+{
+  "name": "github-actions-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Brian Zelip <bzelip@protonmail.com> (https://zelip.me/)",
+  "license": "MIT"
+}

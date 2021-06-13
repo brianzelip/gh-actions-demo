@@ -1,0 +1,7 @@
+name: 'Hello world'
+description: 'Log hello to the world'
+author: 'Brian Zelip'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
